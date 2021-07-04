@@ -3,5 +3,3 @@ libquadmath0
 python3-dev
 build-essential
 gcc
-freeglut3-dev
-libgtk2.0-dev
